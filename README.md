@@ -13,7 +13,7 @@
 <!-- 3. Contact & Tech Badges -->
 <p align="center">
   <a href="https://github.com/deepakbind">
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
+    <img src="[https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white](https://www.linkedin.com/in/deepak-kumar-bind-499a25323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" alt="Flutter"/>
   </a>
   <a href="https://linkedin.com/in/deepakbind">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
