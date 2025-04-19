@@ -1,16 +1,36 @@
-## Hi there 👋
+<!-- 1. Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Deepak%20Kumar%20Bind&fontSize=40" alt="Deepak Kumar Bind header" />
+</p>
 
-<!--
-**deepakkumarbind143/deepakkumarbind143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 2. 3D Scene Badge -->
+<p align="center">
+  <a href="https://deepakbind.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/🔭 3D%20Scene-View-blue?style=for-the-badge&logo=three.js&logoColor=white" alt="3D Scene" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<!-- 3. Contact & Tech Badges -->
+<p align="center">
+  <a href="https://github.com/deepakbind">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
+  </a>
+  <a href="https://linkedin.com/in/deepakbind">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:deepakkumar@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👋 Hi there, I’m Deepak Kumar Bind
+
+```yaml
+name:        Deepak Kumar Bind
+role:        Flutter Developer & Learner
+location:    Vasco, India
+pronouns:    they/them
+currently:   🚀 Building mobile apps and exploring full‑stack
+
